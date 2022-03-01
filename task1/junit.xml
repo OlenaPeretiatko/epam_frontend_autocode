@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="10" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-22T20:15:10" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="evenNumbersInArray function" timestamp="2022-01-22T20:15:10" tests="10" file="/Users/olenka/Desktop/test/test/even-numbers.spec.js" failures="0" time="0">
+    <testcase name="evenNumbersInArray function should return &quot;Passed argument is not an array or empty&quot; when type of passed argumnent is not an &quot;array&quot;" time="0" classname="should return &quot;Passed argument is not an array or empty&quot; when type of passed argumnent is not an &quot;array&quot;">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return &quot;Passed argument is not an array or empty&quot; when type of passed argumnent is not an &quot;array&quot;" time="0" classname="should return &quot;Passed argument is not an array or empty&quot; when type of passed argumnent is not an &quot;array&quot;">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return &quot;Passed argument is not an array or empty&quot; when type of passed argumnent is not an &quot;array&quot;" time="0" classname="should return &quot;Passed argument is not an array or empty&quot; when type of passed argumnent is not an &quot;array&quot;">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return &quot;Passed array not have even numbers in array&quot; when given array not have even numbers" time="0" classname="should return &quot;Passed array not have even numbers in array&quot; when given array not have even numbers">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return &quot;Passed array does not contain even numbers&quot; when given array not have even numbers" time="0" classname="should return &quot;Passed array does not contain even numbers&quot; when given array not have even numbers">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return &quot;Passed array not have even numbers in array&quot; when given array not have even numbers" time="0" classname="should return &quot;Passed array not have even numbers in array&quot; when given array not have even numbers">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return even numbers [2,4,6] from array" time="0" classname="should return even numbers [2,4,6] from array">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return even numbers [2,12,10] from array" time="0" classname="should return even numbers [2,12,10] from array">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return even numbers [6] from array" time="0" classname="should return even numbers [6] from array">
+    </testcase>
+    <testcase name="evenNumbersInArray function should return even numbers [56] from array" time="0" classname="should return even numbers [56] from array">
+    </testcase>
+  </testsuite>
+</testsuites>
